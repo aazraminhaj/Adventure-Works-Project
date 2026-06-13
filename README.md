@@ -27,4 +27,4 @@ To identify opportunities to improve profit and growth.
 - Analysis and Interpretation of results .
   
 ## Dashboard .
-- Dashboard Interaction <a href="https://github.com/aazraminhaj/Adventure-Works-Project/blob/main/Overview%20Dashboard.png">View Dashboard</a>
+- Dashboard Interaction <a href=https://github.com/aazraminhaj/Adventure-Works-Project/blob/main/Customer%20Analysis%20screenshot.png>View Dashboard</a>

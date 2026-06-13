@@ -1,2 +1,9 @@
-# Adventure-Works-Project
-Adventure Works is a fictional multinational bicycle manufacturing and retail company. The objective of this project was to analyze sales performance, customer behavior, product profitability, and regional trends to support data-driven business decisions.
+# Adventure-Works-Data-Analysis-Project
+## Project Objectives. 
+
+Adventure Works project is To analyze overall sales performance
+To identify top-performing products and categories
+To understand regional sales distribution
+To study customer purchasing behavior
+To identify opportunities to improve profit and growth.
+

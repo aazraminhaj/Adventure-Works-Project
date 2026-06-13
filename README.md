@@ -11,8 +11,8 @@ To identify opportunities to improve profit and growth.
 - Total Profit.
 - Total Quantity Sold.
 - Profit Margin (%).
-Sales by Region
-Sales by Product Category
-Monthly/Yearly Sales Trends
-Top Customers and Top Products
+- Sales by Region .
+- Sales by Product Category .
+- Monthly/Yearly Sales Trends .
+- Top Customers and Top Products .
 

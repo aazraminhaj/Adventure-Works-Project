@@ -8,8 +8,8 @@ To study customer purchasing behavior
 To identify opportunities to improve profit and growth.
 
 ## Key Performance Indicators (KPIs) :-
-* Total Sales Revenue
-Total Profit
+* Total Sales Revenue.
+*Total Profit.
 Total Quantity Sold
 Profit Margin (%)
 Sales by Region

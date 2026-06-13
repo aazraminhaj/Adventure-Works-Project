@@ -17,3 +17,13 @@ To identify opportunities to improve profit and growth.
 - Monthly/Yearly Sales Trends .
 - Top Customers and Top Products .
 
+## Process :-
+- Data Collection from Adventure Works dataset .
+- Data Cleaning (handling missing values, correcting formats) .
+- Data Transformation and Preparation .
+- Data Modeling (creating relationships between tables) .
+- Data Aggregation to calculate KPIs .
+- Dashboard Creation using visualization tools .
+- Analysis and Interpretation of results .
+
+
